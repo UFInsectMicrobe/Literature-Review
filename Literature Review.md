@@ -5,7 +5,7 @@ output: html_notebook
 
 # 2020 Literature Review
 
-### Author:  [Runhang](https://runhangshu.com)      
+### Author:  WongLab     
 ### Affiliation: University of Florida, Department of Entomology and Nematology      
 ### Contact: r.shu@ufl.edu   
 
