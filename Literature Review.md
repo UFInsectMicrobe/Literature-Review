@@ -1,6 +1,4 @@
----
-title: "Runhang's Notebook"
-output: html_notebook
+
 ---
 
 # 2020 Literature Review
@@ -15,7 +13,7 @@ output: html_notebook
 
 
 
-##<font color=green>High Dietary Sugar Reshapes Sweet Taste to promote Feeding Behavior in Drosophila melanogaster; 
+## <font color=green>High Dietary Sugar Reshapes Sweet Taste to promote Feeding Behavior in Drosophila melanogaster; 
 Cell Reports; Christina E. May...Monica Dus (she is big in Drosophila neurology) </font>
 
 Rational:
