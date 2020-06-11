@@ -3,13 +3,6 @@
 
 # 2020 Literature Review
 
-### Author:  WongLab     
-### Affiliation: University of Florida, Department of Entomology and Nematology      
-### Contact: r.shu@ufl.edu   
-
-### Date started: 2020-02-11    
-### Date end (last modified): 2020-02-11   
-
 
 
 
