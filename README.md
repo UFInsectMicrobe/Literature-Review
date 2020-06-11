@@ -8,3 +8,6 @@ Or every beautiful paper, please upload your note here
 
 
 [**2020-06-11 XXXX](Notebook/061120.md)
+
+
+[**2020-06-12 The paper name](Notebook/061220.md)
